@@ -12,3 +12,5 @@ venv/
 .ipynb_checkpoints/
 
 models/
+
+docker-compose.yml

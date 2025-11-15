@@ -1,0 +1,12 @@
+#data
+*.csv
+*.sqlite
+
+#python
+__pycache__/
+*.pyc
+.env
+venv/
+
+#notebooks
+.ipynb_checkpoints/

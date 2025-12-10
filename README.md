@@ -1,4 +1,4 @@
-#  🚗Dynamic Pricing System for Ride-Sharing
+#  Dynamic Pricing System for Ride-Sharing
 
 A machine learning project that predicts ride demand to find the revenue-maximizing price. The final model is served via a **FastAPI** and made interactive with a **Streamlit** dashboard.
 
